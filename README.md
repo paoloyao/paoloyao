@@ -2,7 +2,7 @@
 <ul>
   <li>:world_map: I'm currently living in New Zealand (Philippines is my hometown)</li>
   <li>:school: I have a Bachelor's Degree in Information Systems</li>
-  <li>:computer: My  main field of exptertise is Web Development</li>
+  <li>:computer: My  main field of expertise is Web Development</li>
   <li>:joystick: I play League of Legend on my spare time :laughing:</li>
 </ul>
 
