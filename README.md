@@ -57,8 +57,13 @@
 <li>:computer: https://pinitjpy.netlify.app</li>
 </ul>
 
-#### 🔭 I’m currently working on a Twitter Clone Project :innocent:
-#### 🌱 I’m currently learning and expanding knowledge on ...
+### Twitter Clone
+#### Next.js, ReactJS, Sanity CMS, Twitter Developer Sign in, NextAuth, Tailwind CSS, TypeScript, and Groq
+<ul>
+<li>:keyboard: https://github.com/paoloyao/twitter-clone-project</li>
+<li>:computer: https://twitter-clone-project-gold.vercel.app/</li>
+</ul>
+
 <ul>
 <li>:keyboard: React 18</li>
 <li>:trackball: Next.js 13 - SSR, SSG, and ISR</li>
