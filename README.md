@@ -64,6 +64,8 @@
 <li>:computer: https://twitter-clone-project-gold.vercel.app/</li>
 </ul>
 
+🌱 I’m currently learning and expanding knowledge on ...
+
 <ul>
 <li>:keyboard: React 18</li>
 <li>:trackball: Next.js 13 - SSR, SSG, and ISR</li>
