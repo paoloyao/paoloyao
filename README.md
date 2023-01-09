@@ -3,7 +3,7 @@
   <li>:world_map: I'm currently living in New Zealand (Philippines is my hometown)</li>
   <li>:school: I have a Bachelor's Degree in Information Systems</li>
   <li>:computer: My  main field of expertise is Web Development</li>
-  <li>:joystick: I play League of Legend on my spare time :laughing:</li>
+  <li>:joystick: I play League of Legends on my spare time :laughing:</li>
 </ul>
 
 ## Main Technologies:
