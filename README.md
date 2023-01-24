@@ -42,6 +42,8 @@
 
 ---
 
+## My Personal Projects:
+
 ### OpenAI DALL-E Clone
 #### Vite, MongoDB, ReactJS, TypeScript, Node.js, ExpressJS, OpenAI, and Tailwind CSS
 <ul>
@@ -49,7 +51,6 @@
 <li>:computer: https://delightful-salmiakki-d8ba23.netlify.app/</li>
 </ul>
 
-## My Personal Projects:
 ### Reddit Clone
 #### Next.Js, ReactJS, TypeScript, Tailwind CSS, Supabase, GrapQL, Postgres SQL, StepZen, and Vercel.
 <ul>
