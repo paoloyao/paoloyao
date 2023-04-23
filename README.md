@@ -72,6 +72,17 @@
 <li>:computer: https://twitter-clone-project-gold.vercel.app/</li>
 </ul>
 
+### OpenAI Article Summarizer
+#### ReactJS, TypeScript, Tailwind CSS, OpenAI, RapidAI, Redux Toolkit, Vercel
+<ul>
+<li>:keyboard: https://github.com/paoloyao/summaryAI</li>
+<li>:computer: https://summary-ai-s1f7.vercel.app/</li>
+</ul>
+
+
+
+
+
 🌱 I’m currently learning and expanding knowledge on ...
 
 <ul>
